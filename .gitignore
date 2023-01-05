@@ -129,4 +129,6 @@ dmypy.json
 .pyre/
 
 *.wav
-*.txt
+prompts*.txt
+data/
+.DS_Store
